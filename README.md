@@ -195,6 +195,8 @@ Tracks call volumes and trends across January, February, and March.
 ---
 
 ## 📷 Dashboard Preview
+![image_alt](image_url) 
+<img width="1179" height="666" alt="call center performance dashboard" src="https://github.com/user-attachments/assets/8ccfda3a-9730-4cc9-b71a-c617e9106686" />
 
 
 
